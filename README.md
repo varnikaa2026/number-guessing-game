@@ -1,6 +1,8 @@
 # 🎮 Number Guessing Game
 
-My first Python project built from scratch.
+A beginner-friendly command-line Number Guessing Game built with Python.
+
+The game allows users to choose a difficulty level, guess a randomly generated number, receive hints after each guess, and tracks the number of attempts.
 
 ## 📷 Screenshot
 <img width="634" height="373" alt="screenshot" src="https://github.com/user-attachments/assets/d02b4328-9dca-4fc2-ab04-0bc01a82b723" />
