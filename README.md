@@ -26,6 +26,24 @@ The game allows users to choose a difficulty level, guess a randomly generated n
 python main.py
 ```
 
+## 🚀 Future Improvements
+
+This is Version 1.0 of the project.
+
+### v1.1
+- Improve the user interface
+- Add more helpful messages
+
+### v1.2
+- Add a high score system
+
+### v2.0
+- Build a GUI version using Tkinter
+
+### v3.0
+- Add multiplayer mode
+  
+
 ## Author
 
-Vikki
+Asapu Varnika
