@@ -1,4 +1,5 @@
 # 🎮 Number Guessing Game
+Version: v1.0
 
 A beginner-friendly command-line Number Guessing Game built with Python.
 
